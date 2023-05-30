@@ -30,6 +30,7 @@ export default function Root() {
         <Meta charset="utf-8" />
         <Link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>中文域名荐词工具</title>
         <Link
           rel="apple-touch-icon"
           href="/apple-touch-icon.png"
